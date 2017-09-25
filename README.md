@@ -1,5 +1,5 @@
 # Geneo
 
-###Templating Language: EJS
+### Templating Language: EJS
 [Link](https://github.com/tj/ejs)
 
