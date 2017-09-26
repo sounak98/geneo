@@ -1,0 +1,26 @@
+.footer-link,
+.footer-link:hover,
+.footer-link:visited {
+	font-size: 26px;
+	color: #c0c0c0;
+	font-family: 'Work Sans', sans-serif;
+}
+
+.footer-btn {
+	bottom: 0;
+	right: 0;
+	position: absolute;
+	font-size: 20px !important;
+	padding: 1.5vh 2vw !important;
+}
+
+.footer-social {
+	right: 0;
+	position: absolute;
+}
+
+.footer-social-icon,
+.footer-social-icon:hover,
+.footer-social-icon:visited {
+	color: #000 !important;
+}
