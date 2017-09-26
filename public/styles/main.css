@@ -1,9 +1,15 @@
+.footer-brand-img {
+	width: 75%;
+}
+
 .footer-link,
 .footer-link:hover,
-.footer-link:visited {
+.footer-link:visited,
+.footer-link:focus {
 	font-size: 26px;
 	color: #c0c0c0;
 	font-family: 'Work Sans', sans-serif;
+	text-decoration: none;
 }
 
 .footer-btn {
@@ -21,6 +27,7 @@
 
 .footer-social-icon,
 .footer-social-icon:hover,
-.footer-social-icon:visited {
+.footer-social-icon:visited,
+.footer-social-icon:focus {
 	color: #000 !important;
 }
